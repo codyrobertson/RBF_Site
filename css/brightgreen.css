@@ -164,7 +164,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
-    color: #767676;
+    color: #595955;
     font-weight: 400;
 }
 
@@ -175,8 +175,8 @@ h3,
 .h2,
 {
     font-family: 'Rokkitt', 'Arial', sans-serif !important;
-    color: #343434;
-    font-weight: 600;
+    color: #322F31;
+    font-weight: 700;
     font-variant-ligatures: common-ligatures;
     margin-top: 0;
     margin-bottom: 0;
@@ -191,7 +191,7 @@ h4,
 h5,
 h6 {
     font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-top: 0;
@@ -345,7 +345,7 @@ a:active {
 }
 
 .type--body-font {
-    font-family: 'Lora', 'Helvetica';
+    font-family: 'Poly', 'Helvetica';
 }
 
 
@@ -1009,7 +1009,7 @@ img:last-child {
 
 .imagebg:not(.image--light) .bg--white p,
 .imagebg:not(.image--light) .bg--white ul {
-    color: #767676;
+    color: #595955;
 }
 
 div[data-overlay] h1,
@@ -1038,7 +1038,7 @@ div[data-overlay] ul {
 /**! 7. Colors **/
 
 body {
-    background: #f8f8f8;
+    background: #F6F6F6;
 }
 
 .color--primary {
@@ -1082,7 +1082,7 @@ a {
 }
 
 .bg--site {
-    background: #f8f8f8;
+    background: #F6F6F6;
 }
 
 .bg--secondary {
@@ -1118,7 +1118,7 @@ a {
 .bg--white span,
 .bg--white ul,
 .bg--white a:not(.btn) {
-    color: #767676;
+    color: #595955;
 }
 
 .bg--white h1,
@@ -1244,7 +1244,7 @@ a {
 /**! 8. Buttons **/
 
 .btn {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
     transition: 0.1s linear;
     -webkit-transition: 0.1s linear;
     -moz-transition: 0.1s linear;
@@ -1262,8 +1262,8 @@ a {
 
 .btn .btn__text,
 .btn i {
-    color: #343434;
-    border-color: #343434;
+    color: #322F31;
+    border-color: #322F31;
     font-weight: 400;
     font-size: 0.625em;
 }
@@ -1432,12 +1432,12 @@ a {
 
 .btn--white {
     background: #fff;
-    color: #343434;
+    color: #322F31;
     border-color: #fff;
 }
 
 .btn--white i {
-    color: #343434;
+    color: #322F31;
 }
 
 .btn--transparent {
@@ -1579,7 +1579,7 @@ nav {
 }
 
 .nav-bar.nav--fixed:not(.bg--dark):not(.bg--primary):not(.bg--white) {
-    background: #f8f8f8;
+    background: #F6F6F6;
 }
 
 .nav-bar.nav--fixed+.nav-mobile-toggle {
@@ -1643,7 +1643,7 @@ nav {
     font-size: 10px;
     font-weight: 400;
     letter-spacing: 0px;
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
 }
 
 .menu>li>a {
@@ -1661,7 +1661,7 @@ nav {
 }
 
 .nav-bar.bg--white .menu>li>a {
-    color: #767676;
+    color: #595955;
 }
 
 .nav-bar.bg--dark .menu>li>a {
@@ -3571,8 +3571,8 @@ form[action*='createsend.com'] p>label:first-child {
 }
 
 form[action*='list-manage.com'] h2 {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -3776,7 +3776,7 @@ body.theme--boxed .nav-bar.nav--fixed {
 }
 
 body.theme--boxed section:not(.bg--white):not(.bg--dark):not(.bg--secondary):not(.bg--dark) {
-    background: #f8f8f8;
+    background: #F6F6F6;
 }
 
 @media all and (max-width: 1400px) {
@@ -3840,8 +3840,8 @@ body.theme--boxed section:not(.bg--white):not(.bg--dark):not(.bg--secondary):not
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('../fonts/Montserrat-SemiBold.otf') format('opentype');
+    font-family: 'Muli';
+    src: url('../fonts/Muli-SemiBold.otf') format('opentype');
     font-weight: 600;
     font-style: normal;
 }
@@ -3936,7 +3936,7 @@ h3 em,
 h4 em,
 h5 em,
 h6 em {
-    font-family: 'Lora';
+    font-family: 'Poly';
     font-weight: 400;
     font-style: italic;
 }
@@ -3946,7 +3946,7 @@ h6 em {
 }
 
 .type--body-font em {
-    font-family: 'Montserrat';
+    font-family: 'Muli';
     font-style: normal;
     font-weight: 600;
 }
@@ -3970,7 +3970,7 @@ h6 em {
 }
 
 hr {
-    border-color: #ebebeb;
+    border-color: #F6F6F6;
 }
 
 .bg--secondary hr {
@@ -4219,7 +4219,7 @@ p[class*='col-'] {
 .nav-bar a.nav-function span {
     font-size: 10px;
     text-transform: uppercase;
-    font-family: 'Montserrat';
+    font-family: 'Muli';
     letter-spacing: 1px;
     margin-left: 0.8125em;
     display: none;
@@ -4684,7 +4684,7 @@ input[type="tel"] {
     transition: 0.2s linear;
     -webkit-transition: 0.2s linear;
     -moz-transition: 0.2s linear;
-    color: #767676;
+    color: #595955;
     padding-left: 1.625em;
     padding-right: 1.625em;
     height: 52px;
@@ -4814,12 +4814,12 @@ textarea {
 .bg--white input[type='password'],
 .bg--white input[type='email'],
 .bg--white input[type="search"] {
-    background: #f8f8f8;
+    background: #F6F6F6;
 }
 
 label {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -5966,8 +5966,8 @@ li+li .input-checkbox {
 }
 
 .twitter-feed .timePosted a {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -6586,8 +6586,8 @@ section.features .feature-2 {
     content: attr(data-value);
     position: absolute;
     right: 1.625em;
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -6610,8 +6610,8 @@ section.features .feature-2 {
     content: attr(data-value) '%';
     position: absolute;
     right: 0;
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -6946,7 +6946,7 @@ section.features .feature-2 {
     font-size: 0.625em;
     font-style: italic;
     display: inline-block;
-    color: #767676;
+    color: #595955;
 }
 
 .slider[data-items] .card {
@@ -7004,7 +7004,7 @@ a .card {
 
 a .card p,
 a .card span {
-    color: #767676;
+    color: #595955;
 }
 
 a .card:hover {
@@ -7080,7 +7080,7 @@ a:active .card {
 
 .card-4 .card__body h6:first-child {
     margin-bottom: 1.3em;
-    color: #767676;
+    color: #595955;
 }
 
 .card-4 .card__body h5 {
@@ -7815,7 +7815,7 @@ iframe {
         padding: 1.625em 0;
     }
     .masonry__filters.masonry__filters--outside ul li {
-        color: #767676;
+        color: #595955;
     }
 }
 
@@ -8145,8 +8145,8 @@ section:first-of-type.imagebg+.masonry-contained {
     border-radius: 50% !important;
     background: none;
     border: none;
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -8954,8 +8954,8 @@ footer .logo {
 }
 
 .footer-1 .footer__navigation li {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -8993,8 +8993,8 @@ footer .logo {
 
 .footer-2 .footer__navigation li {
     display: inline-block;
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     font-size: 1em;
@@ -9053,8 +9053,8 @@ footer .logo {
 }
 
 .footer-3 .footer__navigation li a {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
@@ -9114,8 +9114,8 @@ footer .logo {
 }
 
 .footer-4 .footer__navigation li {
-    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
-    color: #343434;
+    font-family: 'Muli', 'Helvetica', 'Arial', sans-serif;
+    color: #322F31;
     font-weight: 600;
     font-variant-ligatures: common-ligatures;
     margin-bottom: 0;
