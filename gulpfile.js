@@ -9,13 +9,20 @@ var rename = require('gulp-rename');
 var paths = {
   resources: {
     src: [
-      './node_modules/socicon/fon*/*.*'
+      // PLUGIN: socicon font
+      './node_modules/socicon/fon*/*.*',
+      // VENDOR PLUGIN: Icons Mind
+      './src/fon*/iconsmind.*',
+      // Image resources
+      './src/im*/**/*.*',
+      // HTML files
+      './src/*.html',
     ],
     dest: './dist'
   },
   styles: {
-    src: './less/app.less',
-    srcWatch: './less/**/*.less',
+    src: './src/less/app.less',
+    srcWatch: './src/less/**/*.less',
     dest: './dist/css'
   },
   scripts: {
@@ -23,16 +30,17 @@ var paths = {
       // Pillar theme dependencies
       './node_modules/jquery/dist/jquery.js',
       './node_modules/owl.carousel/dist/owl.carousel.js',
+      // './src/js/owl.carousel.min.js',
       './node_modules/smooth-scroll/dist/smooth-scroll.js',
       './node_modules/jquery-parallax.js/parallax.js',
       './node_modules/scrollreveal/dist/scrollreveal.js',
       // Pillar theme vendor scripts
-      './js/vendor/scripts.js',
-      './js/vendor/parallax.js',
+      './src/js/vendor/scripts.js',
+      './src/js/vendor/parallax.js',
       // Petr's modules
-      './js/app.js'
+      './src/js/app.js'
     ],
-    srcWatch: './js/**/*.js',
+    srcWatch: './src/js/**/*.js',
     dest: './dist/js'
   }
 };
