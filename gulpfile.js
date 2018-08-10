@@ -15,6 +15,8 @@ var paths = {
       './src/fon*/iconsmind.*',
       // Image resources
       './src/im*/**/*.*',
+      // PHP files
+      './src/ph*/**/*.*',
       // HTML files
       './src/*.html',
     ],
