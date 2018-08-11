@@ -18,6 +18,7 @@
   "homepage": "https://github.com/codyrobertson/RBF_Site#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "bower": "^1.8.4",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-clean-css": "^3.10.0",

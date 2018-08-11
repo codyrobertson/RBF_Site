@@ -20,11 +20,12 @@ var paths = {
       // HTML files
       './src/*.html',
     ],
+    srcWatch: ['./src/img/**/*.*', './src/php/**/*.*', './src/*.html'],
     dest: './dist'
   },
   styles: {
     src: './src/less/app.less',
-    srcWatch: './src/less/**/*.less',
+    srcWatch: ['./src/less/**/*.less', './src/css/*.css'],
     dest: './dist/css'
   },
   scripts: {
@@ -107,11 +108,15 @@ gulp.task('scripts-prod', function() {
 
 // Watch styles and scripts change
 gulp.task('watch', function () {
-  gulp.watch(paths.styles.src, ['styles'])
+  gulp.watch(paths.resources.srcWatch, ['copy'])
     .on('change', function(event) {
       console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
     });
-  gulp.watch(paths.scripts.src, ['scripts'])
+  gulp.watch(paths.styles.srcWatch, ['styles'])
+    .on('change', function(event) {
+      console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
+    });
+  gulp.watch(paths.scripts.srcWatch, ['scripts'])
     .on('change', function(event) {
       console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
     });

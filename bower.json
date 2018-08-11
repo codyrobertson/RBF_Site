@@ -1,0 +1,17 @@
+{
+  "name": "rbf_site",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "petrstepanov <stepanovps@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/codyrobertson/RBF_Site",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
