@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-4-utilities": "git://github.com/rishabh-rajgarhia/bootstrap-4-utilities.git"
+  }
 }

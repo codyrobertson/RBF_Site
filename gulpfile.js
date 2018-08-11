@@ -41,6 +41,7 @@ var paths = {
       './src/js/vendor/scripts.js',
       './src/js/vendor/parallax.js',
       // Petr's modules
+      './src/js/app-modules/navbar.js',   
       './src/js/app.js'
     ],
     srcWatch: './src/js/**/*.js',
