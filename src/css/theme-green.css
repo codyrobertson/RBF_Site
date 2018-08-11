@@ -786,6 +786,10 @@ img {
     background: #232323;
 }
 
+.background-image-holder.fix {
+  top: -100px !important;
+}
+
 .background-image-holder:not([class*='col-']) {
     width: 100%;
 }
