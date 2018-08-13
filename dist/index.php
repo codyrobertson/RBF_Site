@@ -20,8 +20,8 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 text-center">
-          <h4>Everyone deserves a chance to reach for the stars.</h4>
-          <a class="btn btn--sm btn--primary inner-link" href="/mission"><span class="btn__text"><b>Support our cause</b></span></a>
+          <h4>Why We Do What We Do</h4>
+          <a class="btn btn--sm btn--primary inner-link" href="/mission"><span class="btn__text"><b>Our mission</b></span></a>
         </div>
       </div>
     </div>
@@ -31,7 +31,7 @@
   <section class="bg--secondary imageblock features features-12">
     <div class="imageblock__content col-md-4 col-sm-3 pos-left">
       <div class="background-image-holder">
-        <img alt="image" src="https://images.unsplash.com/photo-1517229581671-6aeb58910de4?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=51571d5bc789567f588ee18589297b3f&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60">
+        <img alt="image" src="/img/sapling.jpg">
       </div>
     </div>
     <div class="container">
@@ -47,10 +47,22 @@
     </div>
   </section>
 
+  <a id="solution" class="in-page-link"></a>
+  <section class="bg--primary">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 text-center">
+          <h3>Problem: There is a Huge Need for Support<br></h3>
+          <p class="lead"><strong>Our Comprehensive Initiative To Solve Those Problems</strong></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <a id="stats" class="in-page-link"></a>
   <section class="imagebg section--even stats-1 parallax" data-overlay="7">
     <div class="background-image-holder">
-      <img alt="image" src="img/hero13.jpg">
+      <img src="img/hero13.jpg">
     </div>
     <div class="container">
       <div class="row row-eq-height">
@@ -82,20 +94,7 @@
     </div>
   </section>
 
-  <a id="solution" class="in-page-link"></a>
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8 col-sm-offset-2 text-center">
-          <h3>Problem: There is a Huge Need for Support<br></h3>
-          <p class="lead">
-            Our Comprehensive Initiative To Solve Those Problems</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <a id="solutiontabs" class="in-page-link"></a>
+  <!-- <a id="solutiontabs" class="in-page-link"></a>
   <section class="tabs-container tabs-5 text-center">
     <ul class="tabs">
       <li class="active">
@@ -149,22 +148,10 @@
         </div>
       </li>
     </ul>
-  </section>
-
-  <a id="heartsoul" class="in-page-link"></a>
-  <section class="bg--primary space--sm cta cta-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h4>The Heart and Soul Of The Foundation</h4>
-          <a class="btn btn--sm btn--primary inner-link" href="#mgv" target="_self"><span class="btn__text"><b>Learn About our values</b></span></a>
-        </div>
-      </div>
-    </div>
-  </section>
+  </section> -->
 
   <a id="foundationsolution" class="in-page-link" data-scroll-id="foundation"></a>
-  <section>
+  <section class="pb-0">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -175,146 +162,23 @@
         <div class="col-sm-4">
           <div class="feature boxed feature-1">
             <i class="icon icon-Archery-2"></i>
-            <h5>Address The Problem</h5>
-            <p>of the outdated structure in the educational system for special-needs individuals by providing a cooperative workspace for the professionals necessary to work with them. This population requires a variety of therapists, teachers, and habilitators
-              to make a profound impact on their lives.<br></p>
+            <h5>Provide A Cooperative Workspace</h5>
+            <p> Address the problem of the outdated structure in the educational system for special-needs individuals by providing a cooperative workspace for the professionals necessary to work with them. This population requires a variety of therapists, teachers, and habilitators to make a profound impact on their lives.</p>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="feature boxed feature-1">
             <i class="icon icon-Business-Mens"></i>
-            <h5>Advocate for Recreational Therapy</h5>
-            <p>RT is grossly under-represented in the many therapies prescribed for those with developmental disabilities. One of the many benefits of RT is the interaction with one’s community. RT helps those individuals navigate available resources to
-              enhance their overall quality of life.&nbsp;&nbsp;<br></p>
+            <h5>Advocate for Recreational Therapy (RT)</h5>
+            <p>RT is grossly under-represented in the many therapies prescribed for those with developmental disabilities. One of the many benefits of RT is the interaction with one’s community. RT helps those individuals navigate available resources to enhance their overall quality of life.</p>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="feature boxed feature-1">
             <i class="icon icon-Claps"></i>
-            <h5>Assist in providing transitional training and employment opportunities</h5>
-            <p>Including but not limited to job programs such as horse and pet boarding, or gardening. As well as finding existing programs appropriate for the individual.<br><br></p>
+            <h5>Provide Career Opputunities</h5>
+            <p>Assist in providing transitional training and employment opportunities, including but not limited to, job programs such as horse and pet boarding, gardening, and finding existing programs appropriate for the individual.</p>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <a id="campaignhero" class="in-page-link"></a>
-  <section class="imagebg section--even" data-overlay="8">
-    <div class="background-image-holder">
-      <img alt="image" src="https://images.unsplash.com/photo-1464998857633-50e59fbf2fe6?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=70ee3cc187eecbac88016219f06081ee&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60">
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-5">
-          <h6>The Heart and Soul Of The Foundation</h6>
-          <p class="lead">A child is labeled as having a learning disability, it has very concrete consequences for the kinds of services and potentially accommodations that child will get. <i class="nowrap">—Ron Sternberg</i><br></p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <a id="campaigncta" class="in-page-link"></a>
-  <section class="section--overlap cta cta-8 ">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-5 col-sm-5 text-center">
-          <div class="boxed bg--white box-shadow">
-            <h4>Stand with us</h4>
-            <span>Sign up and join the campaign</span>
-            <form>
-              <input name="Name" type="text" placeholder="Your Name">
-              <input name="Email" type="email" placeholder="Email Address">
-              <input name="Postcode" type="text" placeholder="Zipcode">
-              <button type="submit" class="btn btn--primary vpe">Join The Campaign</button>
-            </form>
-            <span class="type--fine-print">View our <a href="#privacy-policy" class="inner-link" target="_self">privacy policy</a></span>
-          </div>
-        </div>
-        <div class="col-md-6 col-md-push-1 col-sm-7 col-sm-push-0">
-          <h3>Take the stand for Individualized Education and Programs (IEP)</h3>
-          <p>&nbsp;In keeping with todays new work paradigm, we strive to support the various professionals that work toward the success of these individuals. This necessitates the need for cooperative workspaces to educate, instruct and provide small
-            group social interaction.<br></p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <a id="mgv" class="in-page-link"></a>
-  <section class="space--sm shop-tabs pt-0">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <div class="tabs-container tabs-1">
-            <ul class="tabs text-center mb-0">
-              <li class="active">
-                <div class="tab__title btn">
-                  <span class="btn__text"><b>our mission</b></span>
-                </div>
-                <div class="tab__content">
-                  <div class="row pos-vertical-align-columns">
-                    <div class="col-md-6">
-                      <h6 class="mt-4">A commitment to help those affected by developmental disablities</h6>
-                      <p class="lead">As a non-profit public charity, we endeavor to enrich the lives of individuals and the families of those affected by autism and other developmental disabilities (DD) by promoting an active, independent lifestyle with an emphasis
-                        on “outdoor and outside” activity.<br></p>
-                    </div>
-                    <div class="col-md-4 col-md-push-1 hidden-sm">
-                      <img alt="pic" src="img/shop-aux-7.png">
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="tab__title btn">
-                  <span class="btn__text"><b>our goals</b></span>
-                </div>
-                <div class="tab__content">
-                  <div class="row pos-vertical-align-columns">
-                    <div class="col-md-6">
-                      <h6 class="mt-4">No one should be confined to home with nothing to do.</h6>
-                      <p class="lead">
-                        To assist in providing an active lifestyle for those with (DD) by supporting companies, partnerships, events, and programs that help these individuals be challenged; attain goals; and live an enriched life.&nbsp;</p>
-                    </div>
-                    <div class="col-md-4 col-md-push-1 hidden-sm">
-                      <img alt="pic" src="img/shop-aux-6.png">
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="tab__title btn">
-                  <span class="btn__text"><b>our vision</b></span>
-                </div>
-                <div class="tab__content">
-                  <div class="row pos-vertical-align-columns">
-                    <div class="col-md-6">
-                      <h6 class="mt-4">To ultimately create sustainable multidimensional ranch-like communities</h6>
-                      <p class="lead">We want to create these (“RB Ranches”) that support and house organizations and programs that provide educational, therapeutic, transitional training, and vocational/employment programs for those with DD in a safe, social, and encouraging
-                        environment.&nbsp;<br></p>
-                    </div>
-                    <div class="col-md-4 col-md-push-1 hidden-sm">
-                      <img alt="pic" src="img/shop-aux-5.png">
-                    </div>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <a id="components" class="in-page-link"></a>
-  <section class="imagebg section--even" data-overlay="4">
-    <div class="background-image-holder">
-      <img alt="image" src="https://images.unsplash.com/photo-1475082622110-f0e90ff503ff?ixlib=rb-0.3.5&amp;s=3b3efa76c7fef63ce018589e210f2029&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60">
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-10 col-sm-offset-1 text-center">
-          <h4>&nbsp;Our Foundation Components and Design</h4>
-          <a class="btn btn--primary" href="#rbfkids_colton"><span class="btn__text"><b>Learn more</b></span></a>
         </div>
       </div>
     </div>
@@ -326,7 +190,7 @@
       <div class="row">
         <div class="col-sm-8 col-sm-offset-2 text-center">
           <h3>How The Foundation Works</h3>
-          <p class="lead">&nbsp;RB Foundation builds relationships and supports organizations<br> through the following:&nbsp;<br></p>
+          <p class="lead">RB Foundation builds relationships and supports organizations through the following:<br></p>
         </div>
       </div>
     </div>
@@ -373,7 +237,7 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-8 col-sm-offset-2">
-                <p class="lead">&nbsp;Locating, securing, and developing a cooperative workspace for which professionals can access to serve their clients. Opening soon…“The Treehouse” in Scottsdale, AZ in the summer of 2018.&nbsp;&nbsp;<br></p>
+                <p class="lead">Locating, securing, and developing a cooperative workspace for which professionals can access to serve their clients. Opening soon…“The Treehouse” in Scottsdale, AZ in the summer of 2018.<br></p>
               </div>
             </div>
           </div>
@@ -382,12 +246,16 @@
     </ul>
   </section>
 
-  <a id="supportus" class="in-page-link"></a>
-  <section class="bg--primary space--sm cta cta-5">
+  <a id="components" class="in-page-link"></a>
+  <section class="imagebg section--even" data-overlay="4">
+    <div class="background-image-holder">
+      <img alt="image" src="https://images.unsplash.com/photo-1475082622110-f0e90ff503ff?ixlib=rb-0.3.5&amp;s=3b3efa76c7fef63ce018589e210f2029&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60">
+    </div>
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 text-center">
-          <h4>Become A Supporter And See How You Can Help</h4>
+        <div class="col-sm-10 col-sm-offset-1 text-center">
+          <h4>Our Foundation Components and Design</h4>
+          <a class="btn btn--primary" href="/foundation"><span class="btn__text"><b>Learn more</b></span></a>
         </div>
       </div>
     </div>
@@ -409,7 +277,14 @@
 
   <a id="supporters" class="in-page-link"></a>
   <section class="partners-1 space--sm pt-0">
-    <div class="owl-carousel owl-theme">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+          <h4>Our Star Supporters</h4>
+        </div>
+      </div>
+    </div>
+    <div class="owl-carousel owl-theme mt-5">
       <div class="item">
         <img alt="potere" src="/img/partners/potere.png" />
       </div>
@@ -470,7 +345,7 @@
       <div class="row">
         <div class="col-sm-6">
           <div class="subscribe__title">
-            <h4>Keep Up to Date With Our Mission.&nbsp;</h4>
+            <h4>Keep Up to Date With Our Mission.</h4>
           </div>
         </div>
         <div class="col-sm-6">
@@ -494,7 +369,7 @@
     <div class="container">
       <div class="row project__summary">
         <div class="col-sm-8 col-sm-offset-2">
-          <p class="lead">Reaching Branch Foundation, INC. is a non-profit charitable Arizona corporation with 501(c)(3) tax exempt status in the United States.&nbsp;<br></p>
+          <p class="lead">Reaching Branch Foundation, INC. is a non-profit charitable Arizona corporation with 501(c)(3) tax exempt status in the United States.<br></p>
           <p>Address: 10818 N. 71st Place, Suite 101 Scottsdale, AZ 85254. | U.S. tax-exempt number: *NUMBER*.<br></p>
         </div>
       </div>

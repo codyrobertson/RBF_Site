@@ -21,8 +21,10 @@ var paths = {
       './src/*.*',
       // PHP page includes
       './src/include*/*.php',
+      // PHP page includes
+      './src/.htaccess'
     ],
-    srcWatch: ['./src/img/**/*.*', './src/php/**/*.*', './src/includes/*.php', './src/*.*'],
+    srcWatch: ['./src/img/**/*.*', './src/php/**/*.*', './src/includes/*.php', './src/*.*', './src/.htaccess'],
     dest: './dist'
   },
   styles: {

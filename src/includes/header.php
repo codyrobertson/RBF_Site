@@ -30,25 +30,25 @@
         <div class="navbar-menu-container js--navbar-menu-container">
           <ul class="navbar-menu">
             <li>
-              <a href="#home">Home</a>
+              <a href="/#home">Home</a>
             </li>
             <li>
-              <a href="#aboutus">About us</a>
+              <a href="/#aboutus">About us</a>
             </li>
             <li>
-              <a href="#solution">Problem / Solution </a>
+              <a href="/#solution">Problem / Solution </a>
             </li>
             <li>
-              <a href="#mgv">Mission / Goals / Values</a>
+              <a href="/mission">Mission / Goals / Values</a>
             </li>
             <li>
-              <a href="#foundation">Foundation </a>
+              <a href="/#foundation">Foundation </a>
             </li>
             <li>
-              <a href="#teamlink">Team</a>
+              <a href="/#teamlink">Team</a>
             </li>
             <li>
-              <a href="#contact">Contact</a>
+              <a href="/#contact">Contact</a>
             </li>
           </ul>
         </div>
