@@ -15,12 +15,14 @@ var paths = {
       './src/fon*/iconsmind.*',
       // Image resources
       './src/im*/**/*.*',
-      // PHP files
+      // PHP scripts
       './src/ph*/**/*.*',
-      // HTML files
-      './src/*.html',
+      // PHP pages and other stuff in root folder
+      './src/*.*',
+      // PHP page includes
+      './src/include*/*.php',
     ],
-    srcWatch: ['./src/img/**/*.*', './src/php/**/*.*', './src/*.html'],
+    srcWatch: ['./src/img/**/*.*', './src/php/**/*.*', './src/includes/*.php', './src/*.*'],
     dest: './dist'
   },
   styles: {
@@ -41,7 +43,7 @@ var paths = {
       './src/js/vendor/scripts.js',
       './src/js/vendor/parallax.js',
       // Petr's modules
-      './src/js/app-modules/navbar.js',   
+      './src/js/app-modules/navbar.js',
       './src/js/app.js'
     ],
     srcWatch: './src/js/**/*.js',
